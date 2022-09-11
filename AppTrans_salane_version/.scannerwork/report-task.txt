@@ -1,0 +1,6 @@
+projectKey=Projet-transversal1
+serverUrl=http://localhost:9000
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=Projet-transversal1
+ceTaskId=AYMpD_ib5Cqal6RW1Y_q
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYMpD_ib5Cqal6RW1Y_q
