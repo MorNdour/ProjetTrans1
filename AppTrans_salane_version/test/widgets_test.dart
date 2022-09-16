@@ -41,8 +41,8 @@ void main() {
       var elevatedButton = find.byType(ElevatedButton);
       expect(elevatedButton, findsWidgets);
 
-      final titleFinder = find.text('Agritech,');
-      final textFinder = find.text('Take great care  of your plants health!!! ');
+      final Finder titleFinder = find.text('Agritech,');
+      final Finder textFinder = find.text('Take great care  of your plants health!!! ');
 
       expect(titleFinder, findsOneWidget);
       expect(textFinder, findsOneWidget);
