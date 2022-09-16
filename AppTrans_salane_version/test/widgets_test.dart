@@ -10,7 +10,6 @@
 import 'package:authentifaction_app/screens/home_screen.dart';
 import 'package:authentifaction_app/screens/overview_screen.dart';
 import 'package:authentifaction_app/screens/splash_screen.dart';
-import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 //import 'package:authentifaction_app/widgets/auth/auth_form.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
